@@ -19,7 +19,7 @@ const data = [
     avatar: AVTR4,
     name: "Esra Darcan",
     review:
-      "Rameez is an excellent developer! He designed a stunning personal portfolio website for me that truly showcases my expertise and attracts clients. His creativity, attention to detail, and professionalism made the entire experience fantastic. I highly recommend Rameez to anyone who wishes to elevate their online presence!.",
+      "Rameez is an excellent developer! He designed a stunning personal portfolio website for me that truly showcases my expertise and attracts clients. His technical and soft skills optimised my experience working with him. I highly recommend Rameez to anyone who wishes to elevate their online presence!.",
   },
   {
     avatar: AVTR1,
@@ -37,7 +37,7 @@ const data = [
     avatar: AVTR3,
     name: "Todd Rudinary",
     review:
-      "Rameez is an incredible developer! He created a flawless backend student attendance software for us, and it has made a huge difference in our day-to-day operations. His dedication, expertise, and friendly approach made the whole process a joy. I can't recommend Rameez enough's simply the best!.",
+      "Rameez is an incredible developer! He created a flawless backend student attendance software for us, and it has made a huge difference in our day-to-day operations. His dedication, expertise, and friendly approach made the whole process a joy. Rameez is simply the best!.",
   },
   
 ];
